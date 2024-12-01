@@ -1,0 +1,132 @@
+baseURL: 'https://www.lktf.hk/'
+languageCode: 'zh-hk'
+paginate: 5
+title: "梁錦棠詠春同學會"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "梁錦棠詠春同學會 - 承葉問絕藝，傳梁相正統"
+  description: "為了「凝聚同門、回饋社會」 一群梁錦棠師父的弟子於2014年1月成立「梁錦棠詠春同學會」 並組成幹事會負責執行"
+  keywords: [Wing chung, martial arts]
+  author: 梁錦棠詠春同學會
+  # author: ["Me", "You"] # multiple authors
+  images: ["images/lktf-logo-favicon.ico"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: "light"
+  disableThemeToggle: "true"
+
+  ShowReadingTime: "true"
+  ShowShareButtons: "true"
+  ShowPostNavLinks: "true"
+  ShowBreadCrumbs: "true"
+  ShowCodeCopyButtons: "false"
+  ShowWordCount: "false"
+  ShowRssButtonInSectionTermList: "true"
+  UseHugoToc: "false"
+  disableSpecial1stPost: "false"
+  disableScrollToTop: "false"
+  comments: "false"
+  hidemeta: "false"
+  hideSummary: "false"
+  showtoc: "false"
+  tocopen: "false"
+
+# HomePage settings 
+
+  homeInfoParams:
+    Title: 梁錦棠詠春同學會
+    Content: 承葉問絕藝，傳梁相正統
+
+  profileMode:
+    enabled: "true"
+    title: "梁錦棠詠春同學會" # optional default will be site title
+    subtitle: "承葉問絕藝，傳梁相正統"
+    imageUrl: "/images/lktf-logo.png" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive/"
+      - name: Contact
+        url: "/聯絡我們/"
+
+  socialIcons: # optional
+    - name: "facebook"
+      url: "https://www.facebook.com/wingtsunlktf"
+    - name: "youtube"
+      url: "https://www.youtube.com/channel/UCEv77GEt1WJi5NLoShsOTsw"
+  
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/images/lktf-logo-favicon.ico"
+    favicon16x16: "/images/lktf-logo-favicon.ico"
+    favicon32x32: "/images/lktf-logo-favicon.ico"
+    apple_touch_icon: "/images/lktf-logo-favicon.ico"
+    safari_pinned_tab: "/images/lktf-logo-favicon.ico"
+
+
+socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCEv77GEt1WJi5NLoShsOTsw/"
+    - name: facebook
+      url: "https://www.facebook.com/wingtsunlktf"
+
+## menu bar
+
+menu:
+  main:
+    - identifier: about 
+      name: "關於我們"
+      url: /關於我們/
+      weight: 1
+
+      identifier: earchives 
+      name: "過往活動"
+      url: /archives/
+      weight: 10
+
+    - identifier: contact
+      name: "聯絡我們"
+      url: /聯絡我們/
+      weight: 20
+
+    - identifier: donation
+      name: "捐款資料"
+      url: /捐款資料/
+      weight: 30
+
+    - identifier: 搜尋
+      name: "搜尋"
+      url: /search/
+      weight: 40
+
+    - identifier: lktwingchun
+      name: "梁錦棠詠春國術研究會"
+      url: https://www.lktwingchun.com/
+      weight: 50
+
+# Post link permalink
+permalinks: 
+  posts: "/:slug"
+  pages: "/:slug"
+  
+# Search Page
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
