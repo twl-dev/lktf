@@ -58,9 +58,9 @@ params:
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
     buttons:
-      - name: Archive
+      - name: 過往活動
         url: "/archive/"
-      - name: Contact
+      - name: 聯絡我們
         url: "/聯絡我們/"
 
   socialIcons: # optional
@@ -109,9 +109,9 @@ menu:
       url: /捐款資料/
       weight: 30
 
-    - identifier: 搜尋
+    - identifier: search
       name: "搜尋"
-      url: /search/
+      url: /搜尋本網/
       weight: 40
 
     - identifier: lktwingchun
