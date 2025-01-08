@@ -1,5 +1,5 @@
-baseURL: 'https://www.lktf.hk/'
-languageCode: 'zh-hk'
+baseURL: "https://www.lktf.hk/"
+languageCode: "zh-hk"
 paginate: 5
 title: "梁錦棠詠春同學會"
 theme: "PaperMod"
