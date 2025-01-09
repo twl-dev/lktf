@@ -1,7 +1,7 @@
 ---
 title: "物資派發：深水埗街坊褔利會派發防疫物資"
 date: "2023-01-15"
-categories: 
+categories:
   - "最新活動"
 tags: 
   - "慈善活動"
