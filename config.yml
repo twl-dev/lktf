@@ -19,10 +19,10 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "梁錦棠詠春同學會 - 承葉問絕藝，傳梁相正統"
   description: "為了「凝聚同門、回饋社會」 一群梁錦棠師父的弟子於2014年1月成立「梁錦棠詠春同學會」 並組成幹事會負責執行"
-  keywords: [Wing chung, martial arts]
-  author: 梁錦棠詠春同學會
+  keywords: [Wing chung, martial arts, 詠春, 梁相, 梁錦棠詠春]
+  author: "梁錦棠詠春同學會"
   # author: ["Me", "You"] # multiple authors
-  images: ["images/lktf-logo-favicon.ico"]
+  images: ["images/lktf-logo.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: "light"
   disableThemeToggle: "true"
