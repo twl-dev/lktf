@@ -19,10 +19,10 @@ coverImage: "20160616_cmm_event015.jpg"
 
 <!--more-->
 
-\[caption id="attachment\_236" align="alignnone" width="1024"\][![梁錦棠詠春同學正準備上台表演詠春](images/20160615_cmm_event010-1024x577.jpg)](http://13.229.250.225/wp-content/uploads/2016/06/20160615_cmm_event010.jpg) 梁錦棠詠春同學正準備上台表演詠春\[/caption\]
+梁錦棠詠春同學正準備上台表演詠春
 
-\[caption id="attachment\_230" align="alignnone" width="1024"\][![梁錦棠詠春同學會綵牌表演](images/20160615_cmm_event004-1024x577.jpg)](http://13.229.250.225/wp-content/uploads/2016/06/20160615_cmm_event004.jpg) 梁錦棠詠春同學會綵牌表演\[/caption\]
+梁錦棠詠春同學會綵牌表演
 
-\[caption id="attachment\_229" align="alignnone" width="577"\][![梁錦棠師父在活動中講解詠春好處](images/20160615_cmm_event003-577x1024.jpg)](http://13.229.250.225/wp-content/uploads/2016/06/20160615_cmm_event003.jpg) 梁錦棠師父在活動中講解詠春好處\[/caption\]
+梁錦棠師父在活動中講解詠春好處
 
-\[caption id="attachment\_239" align="alignnone" width="1024"\][![鄭明明女士當天都有出席活動](images/20160615_cmm_event013-1024x577.jpg)](http://13.229.250.225/wp-content/uploads/2016/06/20160615_cmm_event013.jpg) 鄭明明女士當天都有出席活動\[/caption\]
+鄭明明女士當天都有出席活動

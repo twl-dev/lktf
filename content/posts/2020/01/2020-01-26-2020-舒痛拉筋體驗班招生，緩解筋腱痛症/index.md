@@ -18,13 +18,13 @@ coverImage: "stretching.jpeg"
 
 ## 拉筋班上課詳情：
 
-上課地點：九龍太子彌敦道755號合盈商業大廈2樓 ([梁錦棠詠春國術研究會](http://13.229.250.225)會址)
+上課地點：九龍太子彌敦道755號合盈商業大廈2樓 ([梁錦棠詠春國術研究會](https://www.lktwingchun.com)會址)
 
 <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.7717362232625!2d114.16582931495512!3d22.324470985310953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b5e436e9c1%3A0x127723981a6d7e91!2z5qKB6Yym5qOg6Kmg5pil5ZyL6KGT56CU56m25pyD!5e0!3m2!1szh-TW!2shk!4v1580025272871!5m2!1szh-TW!2shk" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 上課日期：2020年2月5日, 12日, 19日, 26日, 3月4日, 11日, 18日及25日 (星期三晚上，共8晚) 上課時間：晚上七點至八點半 學員名額：15名（先報先得） 學費：每堂港幣100元，共800元 導師：舒痛拉筋班導師馮鏵章先生
 
-\[caption id="attachment\_2244" align="alignnone" width="525"\]![舒痛拉筋班導師馮鏵章先生](images/stretching-1024x768.jpeg) 舒痛拉筋班導師馮鏵章先生\[/caption\]
+舒痛拉筋班導師馮鏵章先生
 
 ## 導師介紹：
 

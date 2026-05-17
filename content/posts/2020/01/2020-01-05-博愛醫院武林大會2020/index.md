@@ -22,4 +22,3 @@ coverImage: "l10.jpeg"
 
 <iframe src="https://www.youtube.com/embed/bAmGYzj6GwE" width="934" height="525" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-\[gallery type="slideshow" size="large" link="none" ids="2216,2222,2227,2218,2221,2223"\]

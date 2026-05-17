@@ -10,8 +10,6 @@ tags:
 
 <figure>
 
-[![](images/IMG_6873-1024x576.jpeg)](http://13.229.250.225/wp-content/uploads/2022/11/IMG_6873.jpeg)
-
 <figcaption>
 
 師父與大會嘉賓合照
@@ -22,7 +20,7 @@ tags:
 
 <figure>
 
-[![](images/PHOTO-2022-10-23-14-49-29.jpg)](http://13.229.250.225/wp-content/uploads/2022/11/PHOTO-2022-10-23-14-49-29.jpg)
+![](images/PHOTO-2022-10-23-14-49-29.jpg)
 
 <figcaption>
 
@@ -33,8 +31,6 @@ tags:
 </figure>
 
 <figure>
-
-[![](images/IMG_6846-1-1024x576.jpeg)](http://13.229.250.225/wp-content/uploads/2022/11/IMG_6846-1.jpeg)
 
 <figcaption>
 

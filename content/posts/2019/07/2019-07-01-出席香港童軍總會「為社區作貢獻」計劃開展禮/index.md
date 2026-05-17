@@ -14,4 +14,3 @@ coverImage: "2.jpeg"
 
 2019年6月30日，本會受香港童軍總會邀請出席「為社區作貢獻」計劃開展禮。當中有小朋友學員表演詠春。<!--more-->
 
-\[gallery type="slideshow" size="large" link="none" ids="1445,1442,1452,1450"\]

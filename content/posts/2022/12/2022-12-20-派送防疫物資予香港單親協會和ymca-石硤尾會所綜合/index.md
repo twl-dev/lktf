@@ -15,8 +15,6 @@ coverImage: "2022_12_19_lkt0002.jpeg"
 
 <figure>
 
-[![梁錦棠詠春同學會派送物資予香港單親協會](images/2022_12_19_lkt0001.jpeg)](http://13.229.250.225/wp-content/uploads/2022/12/2022_12_19_lkt0001.jpeg)
-
 <figcaption>
 
 梁錦棠詠春同學會派送物資予香港單親協會
@@ -26,8 +24,6 @@ coverImage: "2022_12_19_lkt0002.jpeg"
 </figure>
 
 <figure>
-
-[![梁錦棠詠春同學會派送物資予 YMCA 石硤尾會所](images/2022_12_19_lkt0005-1024x768.jpeg)](http://13.229.250.225/wp-content/uploads/2022/12/2022_12_19_lkt0005.jpeg)
 
 <figcaption>
 

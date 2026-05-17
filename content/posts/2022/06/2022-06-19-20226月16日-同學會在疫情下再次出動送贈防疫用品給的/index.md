@@ -7,6 +7,5 @@ tags:
   - "義工服務"
 ---
 
-[![](images/c69169fe-41bc-4992-a89e-700971daa6cd.jpg)](http://13.229.250.225/wp-content/uploads/2022/06/c69169fe-41bc-4992-a89e-700971daa6cd.jpg)
+![](images/c69169fe-41bc-4992-a89e-700971daa6cd.jpg)
 
-[![](images/d1cbeab7-be3a-48e1-83f5-5f1f1cad52c3-576x1024.jpg)](http://13.229.250.225/wp-content/uploads/2022/06/d1cbeab7-be3a-48e1-83f5-5f1f1cad52c3.jpg)

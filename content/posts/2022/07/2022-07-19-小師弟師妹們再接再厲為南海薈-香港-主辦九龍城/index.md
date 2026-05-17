@@ -14,7 +14,7 @@ tags:
 
 <figure>
 
-[![](images/PHOTO-2022-07-17-16-14-33.jpg)](http://13.229.250.225/wp-content/uploads/2022/07/PHOTO-2022-07-17-16-14-33.jpg)
+![](images/PHOTO-2022-07-17-16-14-33.jpg)
 
 <figcaption>
 
@@ -26,7 +26,7 @@ tags:
 
 <figure>
 
-[![](images/PHOTO-2022-07-17-16-14-37.jpg)](http://13.229.250.225/wp-content/uploads/2022/07/PHOTO-2022-07-17-16-14-37.jpg)
+![](images/PHOTO-2022-07-17-16-14-37.jpg)
 
 <figcaption>
 

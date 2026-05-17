@@ -16,8 +16,6 @@ coverImage: "lkt_2021-03-010085.jpeg"
 
 <figure>
 
-[![](images/lkt_2021-03-010080.jpeg)](http://13.229.250.225/wp-content/uploads/2021/03/lkt_2021-03-010080.jpeg)
-
 <figcaption>
 
 香港宣教會恩磐堂鄰舍服務中心
@@ -27,8 +25,6 @@ coverImage: "lkt_2021-03-010085.jpeg"
 </figure>
 
 <figure>
-
-[![](images/lkt_2021-03-010072.jpeg)](http://13.229.250.225/wp-content/uploads/2021/03/lkt_2021-03-010072.jpeg)
 
 <figcaption>
 
@@ -40,8 +36,6 @@ coverImage: "lkt_2021-03-010085.jpeg"
 
 <figure>
 
-[![](images/lkt_2021-03-010075.jpeg)](http://13.229.250.225/wp-content/uploads/2021/03/lkt_2021-03-010075.jpeg)
-
 <figcaption>
 
 路向四肢傷殘人士協會
@@ -52,7 +46,7 @@ coverImage: "lkt_2021-03-010085.jpeg"
 
 <figure>
 
-[![香港強脊會](images/lkt_2021-03-010083.jpeg)](http://13.229.250.225/wp-content/uploads/2021/03/lkt_2021-03-010083.jpeg)
+![香港強脊會](images/lkt_2021-03-010083.jpeg)
 
 <figcaption>
 
@@ -64,7 +58,7 @@ coverImage: "lkt_2021-03-010085.jpeg"
 
 <figure>
 
-[![東華三院黃竹坑服務中心](images/lkt_2021-03-010085.jpeg)](http://13.229.250.225/wp-content/uploads/2021/03/lkt_2021-03-010085.jpeg)
+![東華三院黃竹坑服務中心](images/lkt_2021-03-010085.jpeg)
 
 <figcaption>
 
@@ -76,7 +70,7 @@ coverImage: "lkt_2021-03-010085.jpeg"
 
 <figure>
 
-[![香港單親協會](images/lkt_2021-03-010089.jpeg)](http://13.229.250.225/wp-content/uploads/2021/03/lkt_2021-03-010089.jpeg)
+![香港單親協會](images/lkt_2021-03-010089.jpeg)
 
 <figcaption>
 

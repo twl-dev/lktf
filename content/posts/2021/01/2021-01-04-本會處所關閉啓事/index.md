@@ -7,4 +7,3 @@ categories:
 
 根據政府防疫措施,本會處所關閉將延長至2021年1月20日。祝各位身體安康!
 
-[![](images/IMG_5530-1024x768.jpeg)](http://13.229.250.225/wp-content/uploads/2021/01/IMG_5530.jpeg)

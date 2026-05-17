@@ -17,8 +17,8 @@ coverImage: "DSC_9936.jpg"
 
 <iframe src="https://www.youtube.com/embed/214NygGo5T0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-\[caption id="attachment\_569" align="alignnone" width="525"\]![梁錦棠詠春同學會成員表演尋橋](images/DSC_9936-1024x683.jpg) 梁錦棠詠春同學會成員表演尋橋\[/caption\]
+梁錦棠詠春同學會成員表演尋橋
 
-\[caption id="attachment\_568" align="alignnone" width="525"\]![梁錦棠詠春同學會成員表演尋橋](images/DSC_9934-1024x683.jpg) 梁錦棠詠春同學會成員表演尋橋\[/caption\]
+梁錦棠詠春同學會成員表演尋橋
 
-\[caption id="" align="alignnone" width="525"\]![梁錦棠師父與梁錦棠詠春同學會一眾成員於表演之後合照留念。](images/DSC_9946.JPG) 梁錦棠師父與梁錦棠詠春同學會一眾成員於表演之後合照留念。\[/caption\]
+梁錦棠師父與梁錦棠詠春同學會一眾成員於表演之後合照留念。

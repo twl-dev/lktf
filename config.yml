@@ -1,5 +1,6 @@
 baseURL: "https://www.lktf.hk/"
 languageCode: "zh-hk"
+defaultContentLanguage: "zh-hk"
 paginate: 5
 title: "梁錦棠詠春同學會"
 theme: "PaperMod"
@@ -8,6 +9,12 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+languages:
+  zh-hk:
+    languageName: "繁體中文"
+    title: "梁錦棠詠春同學會"
+    weight: 1
 
 googleAnalytics: G-R0N3XGMJRJ
 
@@ -30,7 +37,7 @@ params:
   ShowReadingTime: "true"
   ShowShareButtons: "true"
   ShowPostNavLinks: "true"
-  ShowBreadCrumbs: "true"
+  ShowBreadCrumbs: "false"
   ShowCodeCopyButtons: "false"
   ShowWordCount: "false"
   ShowRssButtonInSectionTermList: "true"
@@ -51,15 +58,15 @@ params:
 
   profileMode:
     enabled: "true"
-    title: "梁錦棠詠春同學會" # optional default will be site title
+    title: "梁錦棠詠春同學會"
     subtitle: "承葉問絕藝，傳梁相正統"
-    imageUrl: "/images/lktf-logo.png" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 200 # custom size
-    imageHeight: 200 # custom size
+    imageUrl: "/images/lktf-logo.png"
+    imageTitle: "梁錦棠詠春同學會標誌"
+    imageWidth: 200
+    imageHeight: 200
     buttons:
       - name: 過往活動
-        url: "/archive/"
+        url: "/過往活動/"
       - name: 聯絡我們
         url: "/聯絡我們/"
 
@@ -94,9 +101,24 @@ menu:
       url: /關於我們/
       weight: 1
 
-      identifier: earchives 
+    - identifier: history
+      name: "歷史沿革"
+      url: /歷史沿革/
+      weight: 2
+
+    - identifier: programs
+      name: "課程與活動"
+      url: /課程與活動/
+      weight: 3
+
+    - identifier: gallery
+      name: "照片館"
+      url: /照片館/
+      weight: 4
+
+    - identifier: earchives 
       name: "過往活動"
-      url: /archives/
+      url: /過往活動/
       weight: 10
 
     - identifier: contact

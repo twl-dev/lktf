@@ -16,14 +16,8 @@ coverImage: "lkt_wing_chun_20200821_0033.jpeg"
 
  
 
-![](images/lkt_wing_chun_20200814_0035-768x1024.jpeg)
+本會免費派發消毒液予的士、巴士、客貨車等營業車輛。
 
-![](images/lkt_wing_chun_20200812_0027-768x1024.jpeg)
+本會免費派發消毒液予的士、巴士、客貨車等營業車輛。
 
-![](images/lkt_wing_chun_20200812_0026-768x1024.jpeg)
-
-\[caption id="attachment\_2384" align="alignnone" width="525"\]![本會免費派發消毒液予的士、巴士、客貨車等營業車輛。](images/lkt_wing_chun_20200812_0025-768x1024.jpeg) 本會免費派發消毒液予的士、巴士、客貨車等營業車輛。\[/caption\]
-
-\[caption id="attachment\_2385" align="alignnone" width="525"\]![本會免費派發消毒液予的士、巴士、客貨車等營業車輛。](images/lkt_wing_chun_20200821_0033-768x1024.jpeg) 本會免費派發消毒液予的士、巴士、客貨車等營業車輛。\[/caption\]
-
-\[caption id="attachment\_2381" align="alignnone" width="525"\]![本會免費派發消毒液予的士、巴士、客貨車等營業車輛。](images/lkt_wing_chun_20200812_0028-768x1024.jpeg) 本會免費派發消毒液予的士、巴士、客貨車等營業車輛。\[/caption\]
+本會免費派發消毒液予的士、巴士、客貨車等營業車輛。

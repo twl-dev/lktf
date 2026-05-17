@@ -16,18 +16,3 @@ coverImage: "2018_10_28_wingchun_show_WK-15.jpeg"
 
 2018年10月28日，本會與香港中華總商會及香港中華基督教青年會聯合主辦「嶺南文化匯西九，全港學界朗誦節2018」。 本會學員於活動表演詠春小念頭和尋橋。<!--more-->
 
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-1-1024x426.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-2-683x1024.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-3-1024x682.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-5-1024x683.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-10-1024x768.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-8-1024x768.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-16-1024x768.jpeg)
-
-![嶺南文化匯西九，全港學界朗誦節2018](images/2018_10_28_wingchun_show_WK-14-1024x768.jpeg)

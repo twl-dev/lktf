@@ -16,7 +16,7 @@ coverImage: "2023_01_14_lktf-0045.jpg"
 
 <figure>
 
-[![梁錦棠詠春同學會派發物資到孔教學院大成小學。 ](images/2023_01_14_lktf-0047.jpg)](http://lktf.hk/wp-content/uploads/2023/01/2023_01_14_lktf-0047.jpg)
+![梁錦棠詠春同學會派發物資到孔教學院大成小學](images/2023_01_14_lktf-0047.jpg)
 
 <figcaption>
 
@@ -28,7 +28,7 @@ coverImage: "2023_01_14_lktf-0045.jpg"
 
 <figure>
 
-[![梁錦棠詠春同學會派發物資到孔教學院大成小學。 ](images/2023_01_14_lktf-0045.jpg)](http://lktf.hk/wp-content/uploads/2023/01/2023_01_14_lktf-0045.jpg)
+![梁錦棠詠春同學會派發物資到孔教學院大成小學](images/2023_01_14_lktf-0045.jpg)
 
 <figcaption>
 

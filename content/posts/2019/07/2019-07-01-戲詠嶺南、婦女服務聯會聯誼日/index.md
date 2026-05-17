@@ -14,4 +14,3 @@ coverImage: "20.jpeg"
 
 2019年6月29日，戲詠嶺南活動之學員及婦女服務聯會會員前來我館探班聯誼，大家享受了一個輕鬆的下午。<!--more-->
 
-\[gallery type="slideshow" link="none" size="large" ids="1461,1454,1456,1459,1460,1458,1455"\]

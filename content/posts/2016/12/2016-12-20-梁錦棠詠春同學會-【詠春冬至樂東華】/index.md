@@ -17,15 +17,15 @@ coverImage: "2016_12-17_TWGH_elderly_visit_0030.jpeg"
 
 除了武術表演，同學會成員亦與在座的長者朋友玩遊戲、送福袋。著名歌手威利更即席高歌一曲，同場所有同學會成員合唱，為當天活動掀起高潮。活動結束之前，梁錦棠師父、同學會會長霍濟康先生將港幣六千元善款支票捐贈予東華三院，聊表心意。
 
-\[caption id="attachment\_364" align="alignnone" width="1024"\]![2016_12-17_twgh_elderly_visit_0027](images/2016_12-17_TWGH_elderly_visit_0027-1024x683.jpeg) 同學會霍濟康會長、東華三院代表文主任、梁錦棠師傅及外務副會長陳礎基於活動開始之開合照留念\[/caption\]
+同學會霍濟康會長、東華三院代表文主任、梁錦棠師傅及外務副會長陳礎基於活動開始之開合照留念
 
-\[caption id="attachment\_343" align="alignnone" width="1024"\]![2016_12-17_twgh_elderly_visit_0004](images/2016_12-17_TWGH_elderly_visit_0004-1024x576.jpeg) 詠春梁錦棠同學會小念頭表演\[/caption\]
+詠春梁錦棠同學會小念頭表演
 
-\[caption id="attachment\_347" align="alignnone" width="1024"\]![2016_12-17_twgh_elderly_visit_0008](images/2016_12-17_TWGH_elderly_visit_0008-1024x768.jpeg) 歌星威利唱歌助陣\[/caption\]
+歌星威利唱歌助陣
 
-\[caption id="attachment\_363" align="alignnone" width="1024"\]![2016_12-17_twgh_elderly_visit_0026](images/2016_12-17_TWGH_elderly_visit_0026-1024x683.jpeg) 表演活動完結之後，同學會與一眾長者合照留念\[/caption\]
+表演活動完結之後，同學會與一眾長者合照留念
 
-\[caption id="attachment\_358" align="alignnone" width="1024"\]![2016_12-17_twgh_elderly_visit_0019](images/2016_12-17_TWGH_elderly_visit_0019-1024x576.jpeg) 同學會成員感謝東華三院員工的協力，使治動能夠順利完成\[/caption\]
+同學會成員感謝東華三院員工的協力，使治動能夠順利完成
 
 ## 有關梁錦棠詠春同學會
 

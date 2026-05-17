@@ -18,8 +18,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 
 <figure>
 
-[![](images/2022_12_18_LKTF_0048-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0048.jpeg)
-
 <figcaption>
 
 梁錦棠詠春同學會，年青學員示範詠春拳法
@@ -30,8 +28,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 
 <figure>
 
-[![](images/2022_12_18_LKTF_0052-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0052.jpeg)
-
 <figcaption>
 
 梁錦棠詠春同學會，年青學員示範詠春拳法
@@ -41,8 +37,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 </figure>
 
 <figure>
-
-[![年輕學員示範詠春對拆](images/2022_12_18_LKTF_0032-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0032.jpeg)
 
 <figcaption>
 
@@ -54,8 +48,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 
 <figure>
 
-[![](images/2022_12_18_LKTF_0025-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0025.jpeg)
-
 <figcaption>
 
 梁錦棠詠春同學會，年青學員示範詠春拳法
@@ -66,8 +58,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 
 <figure>
 
-[![](images/2022_12_18_LKTF_0027-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0027.jpeg)
-
 <figcaption>
 
 梁錦棠詠春同學會，年青學員示範詠春拳法
@@ -77,8 +67,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 </figure>
 
 <figure>
-
-[![梁錦棠師父即場講解學習詠春拳法對小朋友、年青人的好處](images/2022_12_18_LKTF_0021-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0021.jpeg)
 
 <figcaption>
 
@@ -89,8 +77,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 </figure>
 
 <figure>
-
-[![梁錦棠師父講解詠春木人樁法](images/2022_12_18_LKTF_0009-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0009.jpeg)
 
 <figcaption>
 
@@ -104,8 +90,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 
 <figure>
 
-[![市民大眾有機會親自打木人樁，領略中國武術的趣味](images/2022_12_18_LKTF_0060-1024x683.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0060.jpeg)
-
 <figcaption>
 
 市民大眾有機會親自打木人樁，領略中國武術的趣味
@@ -118,8 +102,6 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 
 <figure>
 
-[![小朋友經教練指導也可以試打木人樁](images/2022_12_18_LKTF_0067-1-683x1024.jpeg)](http://13.229.250.225/wp-content/uploads/2023/01/2022_12_18_LKTF_0067-1.jpeg)
-
 <figcaption>
 
 小朋友經教練指導也可以試打木人樁
@@ -127,7 +109,5 @@ coverImage: "2022_12_18_LKTF_0027.jpeg"
 </figcaption>
 
 </figure>
-
-
 
 </figure>

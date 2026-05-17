@@ -17,8 +17,8 @@ coverImage: "wingchun-20150705.png"
 
 <!--more-->
 
-\[caption id="attachment\_66" align="alignnone" width="1024"\]![參與2015度 健康快車武林群英匯光明 表演詠春尋橋及黐手](images/DSC_4230-1024x680.jpg) 參與2015度 健康快車武林群英匯光明 表演詠春尋橋及黐手\[/caption\]
+參與2015度 健康快車武林群英匯光明 表演詠春尋橋及黐手
 
-\[caption id="attachment\_65" align="alignnone" width="1024"\]![參與2015度 健康快車武林群英匯光明 表演詠春尋橋及黐手](images/DSC_4223-1024x680.jpg) 參與2015度 健康快車武林群英匯光明 表演詠春尋橋及黐手\[/caption\]
+參與2015度 健康快車武林群英匯光明 表演詠春尋橋及黐手
 
-\[caption id="attachment\_64" align="alignnone" width="1024"\]![參與2015度 健康快車武林群英匯光明留影](images/20150705_164153_HDR-1024x576.jpg) 參與2015度 健康快車武林群英匯光明留影\[/caption\]
+參與2015度 健康快車武林群英匯光明留影

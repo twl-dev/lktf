@@ -11,8 +11,6 @@ tags:
 
 <figure>
 
-[![](images/a5f2a6b5-ba48-4186-9dad-c4adc9ca7bd6-1024x768.jpg)](http://13.229.250.225/wp-content/uploads/2022/08/a5f2a6b5-ba48-4186-9dad-c4adc9ca7bd6.jpg)
-
 <figcaption>
 
 **第五量幹事與梁師父合照.**
@@ -22,8 +20,6 @@ tags:
 </figure>
 
 <figure>
-
-[![](images/95287d32-ad8f-4f46-b644-1757cfb93baa-1024x461.jpg)](http://13.229.250.225/wp-content/uploads/2022/08/95287d32-ad8f-4f46-b644-1757cfb93baa.jpg)
 
 <figcaption>
 

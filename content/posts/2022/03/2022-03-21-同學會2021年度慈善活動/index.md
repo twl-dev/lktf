@@ -26,10 +26,10 @@ tags:
 - 基督教神愛護理院
 - 深水埗街坊福利會.
 
-[![](images/PHOTO-2021-03-02-16-26-06-2.jpg)](http://13.229.250.225/wp-content/uploads/2022/03/PHOTO-2021-03-02-16-26-06-2.jpg)
+![](images/PHOTO-2021-03-02-16-26-06-2.jpg)
 
-[![](images/東華三院黃竹坑護理院-2.jpg)](http://13.229.250.225/wp-content/uploads/2022/03/東華三院黃竹坑護理院-2.jpg)
+![](images/tung-wah-nursing-home-2.jpg)
 
-[![](images/PHOTO-2021-03-02-16-26-41.jpg)](http://13.229.250.225/wp-content/uploads/2022/03/PHOTO-2021-03-02-16-26-41.jpg)
+![](images/PHOTO-2021-03-02-16-26-41.jpg)
 
-[![](images/PHOTO-2021-02-23-16-26-53.jpg)](http://13.229.250.225/wp-content/uploads/2022/03/PHOTO-2021-02-23-16-26-53.jpg)
+![](images/PHOTO-2021-02-23-16-26-53.jpg)

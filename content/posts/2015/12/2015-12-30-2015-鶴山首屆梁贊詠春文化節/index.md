@@ -20,18 +20,18 @@ coverImage: "2015_12_26_ST00121.jpg"
 
 <!--more-->
 
-\[caption id="attachment\_140" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/2015_12_26_ST0014-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/2015_12_26_ST0014.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_139" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/2015_12_26_ST00121-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/2015_12_26_ST00121.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_138" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/2015_12_26_ST00091-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/2015_12_26_ST00091.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_137" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/2015_12_26_ST00071-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/2015_12_26_ST00071.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_136" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/2015_12_26_ST00031-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/2015_12_26_ST00031.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_135" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/IMG-20150926-WA0021-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/IMG-20150926-WA0021.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_134" align="alignnone" width="576"\][![鶴山首屆梁贊詠春文化節](images/IMG-20150926-WA0017-576x1024.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/IMG-20150926-WA0017.jpg) 鶴山首屆梁贊詠春文化節\[/caption\]
+鶴山首屆梁贊詠春文化節
 
-\[caption id="attachment\_133" align="alignnone" width="1024"\][![鶴山首屆梁贊詠春文化節](images/IMG-20150926-WA0005-1024x576.jpg)](http://13.229.250.225/wp-content/uploads/2016/03/IMG-20150926-WA0005.jpg) 鶴山首屆梁贊詠春文化節，梁錦棠師父接受當地傳媒訪問\[/caption\]
+鶴山首屆梁贊詠春文化節，梁錦棠師父接受當地傳媒訪問

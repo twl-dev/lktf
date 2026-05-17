@@ -12,4 +12,3 @@ coverImage: "2018_12_24_jianmen_0023.jpeg"
 
 本會在2018年12月24日於廣東省江門市開設了聯絡辦事處。當天開幕禮花絮如下： <!--more-->
 
-\[gallery size="large" columns="4" link="none" type="slideshow" ids="1278,1277,1276,1275,1274,1273,1272"\]
