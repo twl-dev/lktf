@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.lktf.hk/sitemap.xml
